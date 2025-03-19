@@ -19,8 +19,8 @@ Welcome to my project! This is a full-stack application built with Django (Back-
 
 You can find detailed installation and setup instructions in the respective README files for the Front-End and Back-End:
 
-- Front-End README
-- Back-End README
+- [Front-End README](https://github.com/techsolutionlab/signup-react-django/blob/main/frontend/README.md)
+- [Back-End README](https://github.com/techsolutionlab/signup-react-django/blob/main/backend/README.md)
 
 Follow the instructions to get the project up and running locally
 
